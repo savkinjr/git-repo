@@ -5,6 +5,6 @@ def loop(y):
 	print(count)
 	print(len(y)) 
 
-print("Hello")
-print("Hello my friends")
-print("Salam")
+print("Hello;")
+print("Hello my friends;")
+print("Salam;")
