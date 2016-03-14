@@ -7,3 +7,4 @@ def loop(y):
 
 print("Hello")
 print("Hello my friends")
+print("Salam")
