@@ -6,3 +6,4 @@ def loop(y):
 	print(len(y)) 
 
 print("Hello")
+print("Hello my friends")
